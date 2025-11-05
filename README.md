@@ -6,4 +6,4 @@ This version of CHUMP has been modified and expanded.
 
 See attached Report.pdf for details.
 
-Video overview: [https://www.youtube.com/watch?v=xfGtRVXh8Xc](url)
+Video overview: https://www.youtube.com/watch?v=xfGtRVXh8Xc
